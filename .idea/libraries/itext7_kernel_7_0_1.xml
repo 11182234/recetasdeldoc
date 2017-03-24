@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="itext7-kernel-7.0.1">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/itext7-kernel-7.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

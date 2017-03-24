@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Recetasdeldocv3.2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Datos Doctor</item>
+        <item>Paciente</item>
+        <item>Recetas</item>
+    </string-array>
+</resources>

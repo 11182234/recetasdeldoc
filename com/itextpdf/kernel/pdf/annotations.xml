@@ -1,0 +1,5 @@
+<root>
+    <item name='com.itextpdf.kernel.pdf.PdfDocument'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
